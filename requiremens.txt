@@ -1,0 +1,6 @@
+lxml
+requests
+pandas
+python-dateutil
+playwright
+beautifulsoup4
